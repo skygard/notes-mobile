@@ -12,6 +12,7 @@
     "react-native": "0.59.5",
     "react-native-app-auth": "^4.3.1",
     "react-native-gesture-handler": "^1.2.1",
+    "react-native-sensitive-info": "^5.4.1",
     "react-navigation": "^3.9.1"
   },
   "devDependencies": {
