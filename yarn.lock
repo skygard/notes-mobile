@@ -5029,6 +5029,11 @@ react-native-safe-area-view@^0.13.0:
   resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-1.0.0-alpha.22.tgz#7a120377b52aa9bbb94d0b8541a014026be9289b"
   integrity sha512-kSyAt0AeVU6N7ZonfV6dP6iZF8B7Bce+tk3eujXhzBGsLg0VSLnU7uE9VqJF0xdQrHR91ZjGgVMieo/8df9KTA==
 
+react-native-sensitive-info@^5.4.1:
+  version "5.4.1"
+  resolved "https://registry.yarnpkg.com/react-native-sensitive-info/-/react-native-sensitive-info-5.4.1.tgz#9cec225b7838f793d2d24709e4c2d0aad74dc0a7"
+  integrity sha512-T0eJVAb8cBZOiYHq5TagaUsuETFJlCxjcLUpkciIUlYqeU55L4XTkdy6BgfOmVAowEMv5z3i3cmvJuTRUVrqZw==
+
 react-native-swipeout@^2.3.6:
   version "2.3.6"
   resolved "https://registry.yarnpkg.com/react-native-swipeout/-/react-native-swipeout-2.3.6.tgz#47dac8a835825cf3f2eef9e495574a3d9ab6d3fa"
