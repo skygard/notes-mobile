@@ -23,4 +23,5 @@ target 'Notes' do
 
   # Additional dependencies
   pod 'AppAuth', '>= 0.94'
+  pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
 end  
