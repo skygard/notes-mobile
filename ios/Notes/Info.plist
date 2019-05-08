@@ -28,6 +28,17 @@
 	<string></string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>io.skygard.notes</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>io.skygard.notes</string>
+			</array>
+		</dict>
+	</array>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
