@@ -1,7 +1,13 @@
 {
-  "extends": ["airbnb-base"],
-  "plugins": ["react", "react-native"],
+  "extends": "airbnb",
   "parser": "babel-eslint",
+  "rules": {
+    "no-use-before-define": "off",
+    "react/jsx-filename-extension": "off",
+    "react/prop-types": "off",
+    "comma-dangle": "off",
+    "class-methods-use-this": "off"
+  },
   "parserOptions": {
     "ecmaFeatures": {
       "jsx": true
